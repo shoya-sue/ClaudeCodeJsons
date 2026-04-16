@@ -53,6 +53,8 @@ make deploy-staging   # Deploy to staging
 - `/team-onboarding` — チームメイト向けのランプアップガイドを生成
 - `/proactive` — `/loop` のエイリアス（プロアクティブなループ実行）
 - `/recap` — 離席後のセッションサマリーを手動表示
+- `/focus` — フォーカスビューをトグル（旧 Ctrl+O）
+- `/tui fullscreen` — フルスクリーン（ちらつきなし）レンダリングに切り替え
 
 ## Important Notes
 
