@@ -92,7 +92,6 @@
       "Bash(docker push *)",
       "Bash(terraform apply *)",
       "Bash(kubectl apply *)",
-      "Bash(gh issue create *)",
       "Bash(curl *)",
       "Bash(chmod +x *)",
       "Bash(cp *)",
